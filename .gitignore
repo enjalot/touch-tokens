@@ -1,0 +1,6 @@
+.DS_Store
+venv
+data
+node_modules
+.env
+ttenv
