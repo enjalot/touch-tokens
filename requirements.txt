@@ -1,3 +1,4 @@
 huggingface-hub~=0.23.2
 sentence-transformers~=3.1.0
 transformers~=4.45.1
+matplotlib~=3.9.2
